@@ -49,5 +49,5 @@
 <div align="center" >
   
  <br />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=pranali18-Ai.pranali18-Ai" alt="Visitors" width="100" height="35" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=pratikpatil-ai.pratikpatil-ai" alt="Visitors" width="100" height="35" />
 </div>
