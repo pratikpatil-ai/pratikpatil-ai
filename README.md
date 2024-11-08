@@ -36,12 +36,6 @@
 
 <br />
 
-<div align="center">
-  <h2>Top Languages</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikpatil-ai&langs_count=10&theme=tokyonight&layout=compact" alt="Top Languages" />
-</div>
-
-<br />
 
 <br/>
 <div align="center">
